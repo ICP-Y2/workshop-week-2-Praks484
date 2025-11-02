@@ -55,7 +55,8 @@ Figure 4: Parallel Battery Combination Simulation Circui
 
 ```
 **2.2.	Learning Reflection**
-
+We observed that when four batteries of 1.5 V is connected in parallel Battery combination simulation.
+Hence, when batteries are connected in parallel, the overall voltage across the circuit is same of the voltage of batteries.
 Write a brief note about the results of the Parallel Battery Combination simulation.
 
 
